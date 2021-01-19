@@ -1,0 +1,208 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ul{
+    list-style: none;
+}
+.mid{
+    padding: 40px;
+ 
+    margin: auto;
+    text-align: center;
+}
+a{
+    color:wheat;
+    text-decoration: none;
+    height: 200px;
+}
+.greenb{
+    background-color: rgb(7, 59, 60);  
+}
+.padding-top{
+    padding-top:15px ;
+}
+.btn-style:hover{
+    background-color: rgb(49, 34, 68);
+    color:rgb(255, 255, 255)
+}
+.spancolor{
+   color:  rgb(7, 59, 60);
+
+}
+
+
+
+
+    /* header */
+#container{
+    overflow: auto;
+    color: wheat;
+
+    display: block;
+  
+}
+
+#h-box{
+    text-align: center;
+    display:  block;
+    max-width: 1950px;
+    margin: auto;
+}
+#container h1{
+    padding: 10PX 20px;
+    float: left;
+}
+#right-b{
+    float: right;
+}
+ul{
+    margin-right: 200px;
+   
+    float: left;
+    
+}
+li{
+    font-size: 20px;
+    float: left;
+    padding: 20px;
+}
+
+#book-k{
+    width: 40%;
+    height: 70px;
+   padding-left: 60px;
+   padding-right: 90PX;
+    float: right;
+    background-color: rgb(33, 47, 69);
+    overflow: auto;
+}
+#book-k:hover{
+    background-color: rgb(13, 19, 28);
+}
+#book-k h2{
+    
+    padding: 10PX;
+    width: 200px;
+   color: wheat;
+   text-align: center;
+   
+}
+
+/* main */
+#main{
+  
+    padding: 180px;
+    height: 800px;
+    margin: auto;
+    text-align: center;
+   color: wheat;
+    background: url(/imgs/hh.jpg) no-repeat center center/cover;
+    min-height: 100%;
+    opacity: 0.9;
+}
+#m-box{
+    line-height: 80px;
+    padding-bottom: 200px;
+}
+#m-box h1{
+    color: wheat;
+    font-size: 90px;
+}
+#btn{
+    padding: 20px 30px;
+}
+#m-box a{
+   padding: 25px;
+}
+#m-box p{
+    color: wheat;
+    font-size: 20px;
+}
+
+/* arrivale info box.. */
+#info{
+    display: block;
+}
+#arrivle-info{
+    padding: 0px 0px;
+   max-width: 1400px;
+   margin: auto;
+}
+#arrivle-info ul{
+    position: relative;
+    left: 200px;
+   
+   
+}
+#arrivle-info li{ 
+    width: 20%;
+    height: 90px;
+}
+#arrivle-info li input{
+    width: 100%;
+    height: 60px;
+    border-radius: 10px;
+    border: 3px solid rgb(33, 47, 69);
+}
+#arrivle-info a{
+    position: relative;
+    top: 20px;
+    padding: 30px 20px;
+}
+
+
+#con{
+    margin: auto;
+    max-width: 1700px;
+    height: 1500px;
+    padding: 300px;
+}
+#left{
+    display: inline;
+    float: left;
+    width: 50%;
+}
+#left img{
+    padding: 10px;
+    float: left;
+}
+#right{
+    float: right;
+    width: 50%;
+}
+
+/* about */
+
+
+#clints{
+   
+}
+.clint-s{
+    
+   
+   
+    text-align: center;
+}
+#clint1{
+    display: inline-block;
+    width: 30%;
+   
+}
+#clint2{
+    display: inline-block;
+    width: 30%;
+   
+   
+}
+#clint3{
+    display: inline-block;
+    width: 30%;
+    
+}
+
+
+
+
