@@ -206,4 +206,44 @@ li{
 /* contact */
 /*  */
 
+#body{
+    margin: auto;
+    max-width: 1700px;
+}
+#pic{
+    margin: 0px;
+    width: 50px;
+}
+#left-box{
+    
+    width: 50%;
+    float: left;
+}
+
+#personal-story{
+    display: inline-block;
+    float: right;
+    width: 90%;
+    line-height: 25px;
+    
+}
+#the-short{
+    padding: 60px 0px;
+}
+
+#right-box{
+    width: 50%;
+    float: right;
+}
+#clints{
+    display: inline-block;
+    padding: 100px 30px;
+    width: 40%;
+}
+
+#contact{
+    float: right;
+    width: 30%;
+}
+
 
