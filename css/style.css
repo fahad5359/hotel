@@ -207,6 +207,7 @@ li{
 /*  */
 
 #body{
+    font-size: 17px;
     margin: auto;
     max-width: 1700px;
 }
@@ -243,7 +244,17 @@ li{
 
 #contact{
     float: right;
-    width: 30%;
+    width: 40%;
+    height: 1000px;
+    line-height: 50px
+}
+.input-styling{
+    background-color: rgb(230, 230, 230);
+    padding: 0px 100px;
+}
+#messeage input{
+    padding: 50px;
+   
 }
 
 
