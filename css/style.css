@@ -2,7 +2,8 @@
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 ul{
     list-style: none;
@@ -265,4 +266,63 @@ li{
    
 }
 
+/*  */
+/* about */
+/*  */
+#uppr-viw{
+    background: url("/imgs/andre-benz-PpsgIw3iWZ4-unsplash.jpg") ;
+    background-size: cover;
+    height: 3000px;
+    margin: auto;
+    text-align: center;
+    padding: 380px;
+    color: white;
+    /* line-height: 30px;  */
+}
+#uppr-viw span{
+    color: wheat;
+
+}
+.line-d{
+    
+    padding: 20px;
+  color: rgb(255, 255, 255);
+  border-bottom: rgb(255, 255, 255) 4px solid;
+  width: 150px;
+  margin: auto;
+  
+}
+#uppr-viw h1{
+    font-size: 50px;
+    padding: 100px 0px;
+}
+#uppr-viw p{
+    padding-bottom: 150px;
+}
+#uppr-viw a{
+    padding: 20px;
+}
+
+#endviw{
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    width: 500px;
+    padding-top: 1920px;
+}
+
+
+#mid-viw{
+    height: 1000px;
+
+}
+
+#mid-left{
+    max-width: 50%;
+}
+
+#mid-right{
+    max-width: 50%;
+    float: right;
+}
 
