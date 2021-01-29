@@ -206,6 +206,12 @@ li{
 /* contact */
 /*  */
 
+#upper-box{
+   
+    background-color: rgb(255, 255, 255);
+    padding: 150px;
+}
+
 #body{
     font-size: 17px;
     margin: auto;
@@ -213,7 +219,8 @@ li{
 }
 #pic{
     margin: 0px;
-    width: 50px;
+    width: 33%;
+    float: left;
 }
 #left-box{
     
@@ -224,7 +231,7 @@ li{
 #personal-story{
     display: inline-block;
     float: right;
-    width: 90%;
+    width: 60%;
     line-height: 25px;
     
 }
@@ -249,8 +256,9 @@ li{
     line-height: 50px
 }
 .input-styling{
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(243, 243, 243);
     padding: 0px 100px;
+    border: none;
 }
 #messeage input{
     padding: 50px;
